@@ -32,6 +32,12 @@ export const Form = styled.form`
     font-size: 14px;
     color: ${({ theme }) => theme.COLORS.GRAY_100};
   }
+
+  > a {
+    margin-top: 60px;
+    color: ${({ theme }) => theme.COLORS.ORANGE};
+    font-size: 16px;
+  }
 `
 
 export const BackgroundImg = styled.div`
