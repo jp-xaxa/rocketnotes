@@ -33,10 +33,8 @@ export const Form = styled.form`
     color: ${({ theme }) => theme.COLORS.GRAY_100};
   }
 
-  > a {
+  .back {
     margin-top: 60px;
-    color: ${({ theme }) => theme.COLORS.ORANGE};
-    font-size: 16px;
   }
 `
 
