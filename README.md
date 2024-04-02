@@ -15,10 +15,10 @@ Criação do front-end de um sistema de registro de usuários e notas. Esse proj
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJS
-- Styled-componen
+- Styled-component
 - react-router-dom
 - react-icons
-- JSX
+- JWT
 - Criação de components
 - useStates e useEffect
 - Axios
