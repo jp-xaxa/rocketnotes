@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse repositório representa um projeto dedicado à compreensão dos fundamentos essenciais do ReactJS, com ênfase em conceitos cruciais, como rotas, manipulação de estados na aplicação, estilização por meio de styled-components e JSX. Nosso compromisso central é assegurar que o código seja desenvolvido de maneira semanticamente correta, prezando pela clareza e organização.
+Esse repositório representa um projeto dedicado à compreensão dos fundamentos essenciais do ReactJS, com ênfase em conceitos cruciais, como rotas, manipulação de estados na aplicação, estilização por meio de styled-components, JSX e contexto. Nosso compromisso central é assegurar que o código seja desenvolvido de maneira semanticamente correta, prezando pela clareza e organização.
 
 - [Acesse o projeto finalizado, online](https://rocketnotes-jp.netlify.app/)
 
